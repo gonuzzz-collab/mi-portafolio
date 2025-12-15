@@ -48,8 +48,8 @@ ls ~/IA_NEGOCIO/tests/salida/
 - Mercado Pago
 - Efectivo (en persona)
 
-**Contacto:** [TU_EMAIL_AQUÍ]
-**WhatsApp/Telegram:** [+56 9 TU_NÚMERO_AQUÍ]
+**Contacto:** [gonuzzz@gmail.com]
+**WhatsApp/Telegram:** [+56962646145]
 
 ---
 *Desarrollado en Santiago, Chile con Ubuntu + Python 3.12 + Ollama*
