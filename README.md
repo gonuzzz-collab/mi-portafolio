@@ -1,4 +1,4 @@
-# 🏢 Portafolio de Automatización IA
+# 🏢 Portafolio de Automatización IA - Santiago, Chile
 
 ## Scripts disponibles:
 
@@ -30,9 +30,26 @@ python3 organizador_negocio.py
 ls ~/IA_NEGOCIO/tests/salida/
 \`\`\`
 
-## Servicios disponibles:
-- Instalación y configuración: $49 USD
-- Personalización para negocio: $99 USD
-- Soporte mensual: $29 USD/mes
+## 🏆 Servicios disponibles (Precios CLP):
 
-**Contacto:** [TU_EMAIL]
+| Servicio | Precio | Incluye |
+|----------|--------|---------|
+| **Instalación básica** | $25.000 CLP | Configuración + entrenamiento 20min |
+| **Personalización** | $50.000 CLP | Adaptación a tu negocio específico |
+| **Paquete completo** | $75.000 CLP | Todo lo anterior + 1 mes soporte |
+| **Soporte mensual** | $15.000 CLP/mes | Actualizaciones + soporte prioritario |
+
+## 📍 Zona de cobertura:
+- **Santiago** (preferente)
+- Todo Chile vía remoto
+
+## 💳 Métodos de pago:
+- Transferencia bancaria
+- Mercado Pago
+- Efectivo (en persona)
+
+**Contacto:** [TU_EMAIL_AQUÍ]
+**WhatsApp/Telegram:** [+56 9 TU_NÚMERO_AQUÍ]
+
+---
+*Desarrollado en Santiago, Chile con Ubuntu + Python 3.12 + Ollama*
