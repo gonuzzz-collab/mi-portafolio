@@ -1,0 +1,13 @@
+# Dependencias para Gonúcleo Automatización
+# Python 3.8+
+
+# Utilidades básicas
+colorama>=0.4.6
+tqdm>=4.66.0
+
+# Para desarrollo
+pytest>=7.4.0
+black>=23.0.0
+
+# Nota: Ollama se instala aparte vía curl
+# curl -fsSL https://ollama.com/install.sh | sh

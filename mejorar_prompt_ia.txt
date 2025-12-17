@@ -1,0 +1,23 @@
+MEJORAS PARA PROMPT IA:
+
+1. CONTEXTO MEJORADO:
+"Eres un asistente especializado en clasificación de archivos.
+Debes categorizar archivos por SU CONTENIDO REAL, no solo extensión.
+Considera el nombre, extensión y contenido cuando esté disponible."
+
+2. CATEGORÍAS MEJORADAS:
+- DOCUMENTOS_LEGALES: .pdf, .docx, .txt (contratos, escrituras)
+- DOCUMENTOS_FINANCIEROS: .xlsx, .csv, .pdf (facturas, balances)
+- IMAGENES_PROFESIONALES: .jpg, .png, .raw (fotos de trabajo)
+- IMAGENES_PERSONALES: .jpg, .png (vacaciones, familia)
+- MEDIA: .mp4, .mp3, .mov
+- CODIGO: .py, .js, .html, .json
+- DATOS: .csv, .json, .sql, .db
+- COMPRIMIDOS: .zip, .rar, .tar.gz
+- OTROS: Todo lo demás
+
+3. EJEMPLOS ESPECÍFICOS:
+- "contrato_arriendo.pdf" → DOCUMENTOS_LEGALES
+- "factura_enero.xlsx" → DOCUMENTOS_FINANCIEROS  
+- "foto_producto.jpg" → IMAGENES_PROFESIONALES
+- "vacaciones_familia.png" → IMAGENES_PERSONALES
